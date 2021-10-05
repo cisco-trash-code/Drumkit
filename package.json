@@ -1,0 +1,21 @@
+{
+  "name": "drumkit",
+  "version": "1.0.0",
+  "description": "🥁 🥁 🥁",
+  "main": "index.js",
+  "scripts": {
+    "watch":"tsc --watch",
+    "build": "rm -rf ./dist &&tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sovisrushain/drumkit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sovisrushain/drumkit/issues"
+  },
+  "homepage": "https://github.com/sovisrushain/drumkit#readme"
+}
